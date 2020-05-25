@@ -3,6 +3,7 @@ title: Hello World
 date: "2015-05-01T22:12:03.284Z"
 description: "Hello World"
 ---
+[![alt: Test video](http://img.youtube.com/vi/YXl2Ssc1BCM/0.jpg)](http://www.youtube.com/watch?v=YXl2Ssc1BCM "Test video")
 
 This is my first post on my new fake blog! How exciting!
 

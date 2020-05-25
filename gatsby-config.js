@@ -1,14 +1,16 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Go Tomi Go`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Tomas Francisco Lingotti`,
+      summary: `programador Go y youtuber`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
+    description: `Blog de go`,
     siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
     social: {
-      twitter: `kylemathews`,
+      twitter: `eltomirosario`,
+      youtube: `c/tomaslingotti`,
+      github:  `tomiok`,
     },
   },
   plugins: [
@@ -66,7 +68,7 @@ module.exports = {
         background_color: `#ffffff`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `content/assets/gatsby-icon.png`,
+        icon: `content/assets/icon.png`,
       },
     },
     `gatsby-plugin-react-helmet`,
